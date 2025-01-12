@@ -26,9 +26,9 @@
     <audio src="output/Cinecast-editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Cinecast
+# Cinetalk
 
-Cinecast é o podcast perfeito para os amantes do cinema, onde discutimos tudo o que envolve o universo das telonas: desde as últimas estreias, passando pelos maiores prêmios como o Oscar e Globo de Ouro, até as análises mais profundas sobre filmes, diretores, atores e tendências do setor. A cada episódio, exploramos as novidades, destacamos o que está em alta no cenário cinematográfico e trazemos entrevistas exclusivas com especialistas e figuras de destaque no mundo do cinema. Se você é apaixonado por filmes e quer estar por dentro do que acontece no backstage das grandes produções, o Cinecast é o lugar ideal para você!
+Cinetalk é o podcast perfeito para os amantes do cinema, onde discutimos tudo o que envolve o universo das telonas: desde as últimas estreias, passando pelos maiores prêmios como o Oscar e Globo de Ouro, até as análises mais profundas sobre filmes, diretores, atores e tendências do setor. A cada episódio, exploramos as novidades, destacamos o que está em alta no cenário cinematográfico e trazemos entrevistas exclusivas com especialistas e figuras de destaque no mundo do cinema. Se você é apaixonado por filmes e quer estar por dentro do que acontece no backstage das grandes produções, o Cinetalk é o lugar ideal para você!
 
 ## 💻 Tecnologias utilizadas no projeto
 
