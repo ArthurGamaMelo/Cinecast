@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Cinecast-logo.webp"
     width="300"
 />
 </p>
