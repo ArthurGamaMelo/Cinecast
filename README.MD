@@ -35,7 +35,7 @@ Cinecast é o podcast perfeito para os amantes do cinema, onde discutimos tudo o
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Sony Vegas]
+- [Sony Vegas](https://filmora.wondershare.net/pt-br/best-alternative-to-vegas-pro.html?gad_source=1&gclid=EAIaIQobChMIsLSnosPwigMVUyVECB3_dTgpEAAYASAAEgIltPD_BwE)
 
 ## ✨ Como foi feito ?
 
@@ -44,4 +44,4 @@ Cinecast é o podcast perfeito para os amantes do cinema, onde discutimos tudo o
 - Midjourney Para gerar capas
 - Sony Vegas para tratar aúdio e adicionar sons de fundo
 
-Por [Arthur Gama]
+Por Arthur Gama
